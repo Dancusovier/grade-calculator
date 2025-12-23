@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="36ed1877-5d40-44df-8528-c9f9588b6ade" name="Changes" comment="Initial grade calculator project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grade_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/grade_calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Dancusovier"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Dancusovier/grade-calculator.git",
+    "accountId": "d7f36f34-d226-4231-aa76-0e94c8304b26"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -55,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1766513039001</updated>
-      <workItem from="1766513040286" duration="2839000" />
+      <workItem from="1766513040286" duration="4104000" />
     </task>
     <task id="LOCAL-00001" summary="Initial grade calculator project">
       <option name="closed" value="true" />
@@ -65,7 +78,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766514209809</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial grade calculator project">
+      <option name="closed" value="true" />
+      <created>1766516441984</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766516441984</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
